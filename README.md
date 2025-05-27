@@ -1,6 +1,6 @@
 # Power BI Dashboard – Sales & Operational Insights for Manufacturing
 
-## 📌 Overview
+## Overview
 This Power BI project visualizes and analyzes sales, quantity, and cost metrics from a manufacturing dataset to uncover trends, optimize pricing, and identify key performance drivers. Designed to empower managers with interactive insights for smarter decision-making.
 
 ## Key Features
