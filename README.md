@@ -20,3 +20,8 @@ This Power BI project visualizes and analyzes sales, quantity, and cost metrics 
 - Excel (data preprocessing)
 - Slicers, bookmarks, and measure-driven KPIs
 
+## Dashboard Preview
+
+Here’s a short demo of the dashboard interactivity:
+
+![Dashboard Demo](screenshots/Power BI - Plants.gif)
