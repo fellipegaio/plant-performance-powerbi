@@ -24,4 +24,4 @@ This Power BI project visualizes and analyzes sales, quantity, and cost metrics 
 
 Here’s a short demo of the dashboard interactivity:
 
-![Dashboard Gif](screenshots/power_bi_plants.gif)
+![Dashboard Demo](screenshots/power_bi_plants.gif)
